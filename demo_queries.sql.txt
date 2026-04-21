@@ -1,0 +1,7 @@
+CALL add_money(1, 500);
+CALL transfer_money(1, 2, 100);
+
+SELECT * FROM users;
+SELECT * FROM wallet;
+SELECT * FROM transactions;
+SELECT * FROM audit_log;

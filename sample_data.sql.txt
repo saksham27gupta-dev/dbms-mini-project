@@ -1,0 +1,9 @@
+INSERT INTO users (name, phone, email, password_hash)
+VALUES 
+('Saksham', '9999999999', 'saksham@gmail.com', 'pass'),
+('Rahul', '8888888888', 'rahul@gmail.com', 'pass');
+
+INSERT INTO wallet (user_id, balance)
+VALUES 
+(1, 1000),
+(2, 500);
