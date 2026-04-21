@@ -24,3 +24,11 @@ This project is a mobile wallet database system with focus on security and audit
 
 ## Author
 Saksham Gupta
+
+## Undertaking
+
+I, Saksham Gupta, hereby give permission for this mini project titled "Mobile Wallet and Transaction Database with Security and Auditability" to be used by junior students for academic and learning purposes.
+
+This project is submitted as part of academic requirements and can be reused for educational purposes only.
+
+Date: 21/04/2026
